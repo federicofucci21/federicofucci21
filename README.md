@@ -27,11 +27,11 @@
 If you want to contact me 📱 click 👉 [here](https://www.linkedin.com/in/federico-eloy-fucci-87664357/) and redirect to my Linkedin personal page 💪
 
 My proyects...
+[Cane App](https://cane-food.vercel.app/) 
 
-- [Cane App](https://cane-food.vercel.app/) 
 ![cane-app]("./img/CaneFood.gif)
 
-- [Countries App](https://countries-app-one-kohl.vercel.app/)
+[Countries App](https://countries-app-one-kohl.vercel.app/)
 
 
 
