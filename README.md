@@ -28,8 +28,8 @@ If you want to contact me 📱 click 👉 [here](https://www.linkedin.com/in/fed
 
 My proyects...
 
-- [Cane App](https://cane-food.vercel.app/)
-<video src="https://www.youtube.com/watch?v=wCiUf08WdN0"></video>
+- [Cane App](https://cane-food.vercel.app/) 
+<video> <source src="https://www.youtube.com/watch?v=wCiUf08WdN0" type="video/mp4" /> </video>
 
 - [Countries App](https://countries-app-one-kohl.vercel.app/)
 
