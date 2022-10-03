@@ -31,7 +31,7 @@ My proyects...
 
 
 <img src="./img/CaneFood.gif"/>
-![cane-app]("./img/CaneFood.gif")
+
 
 [Countries App](https://countries-app-one-kohl.vercel.app/)
 
